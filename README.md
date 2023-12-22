@@ -7,3 +7,6 @@ Let, us assume, there is m number of UAVs (Unmanned Aerial Vehicles), i.e., {u1,
 <br>
 <br>
 The problem is to design an algorithm to serve the requested resources to their respective battle clusters using the UAVs, provided the flight time is being minimized.
+<br>
+<br>
+There is a catch though!!<br><br>Every UAV has the capacity to carry different kind of resources. No two UAVs can carry the same type of resources. So, the algorithms have to be optimized enough to address all these constraints.
